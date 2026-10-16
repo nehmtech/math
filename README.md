@@ -41,8 +41,8 @@
 3. ordered list 3
 4. ordered list 4
 
---
+---
 
-[] Pending
+- [] Pending
 
-[x] Task done
+- [x] Task done
