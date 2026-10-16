@@ -54,3 +54,11 @@
 ---
 
 ![Image her](img.png)
+
+---
+
+```python
+a = 100
+b = 200
+print(a + b)
+```
