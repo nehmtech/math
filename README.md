@@ -46,3 +46,7 @@
 - [ ] Pending
 
 - [x] Task done
+
+---
+
+[This is a link](https://www.google.com)
