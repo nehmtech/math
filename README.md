@@ -50,3 +50,7 @@
 ---
 
 [This is a link](https://www.google.com)
+
+---
+
+![Image her](img.png)
