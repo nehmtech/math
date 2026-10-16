@@ -36,11 +36,13 @@
 - Unordered list 4
 
 ---
-1. Unordered list 1
-2. Unordered list 2
-3. Unordered list 3
-4. Unordered list 4
+1. ordered list 1
+2. ordered list 2
+3. ordered list 3
+4. ordered list 4
 
 --
+
 [] Pending
-[x] Done
+
+[x] Task done
