@@ -4,3 +4,19 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+---
+
+**Bold text**
+
+---
+
+*Italic text*
+
+---
+
+~~Strike~~
+
+---
+
+`print("Hello world")`
