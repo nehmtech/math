@@ -69,3 +69,10 @@ print(a + b)
 |----------------|--------------------|
 | James Smith    | info@example.com   |
 | Tom and Jerry  |  example@gmail.com |
+
+
+---
+
+\* Italic text \*
+
+\- Italic text 
