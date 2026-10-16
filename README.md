@@ -43,6 +43,6 @@
 
 ---
 
-- [] Pending
+- [ ] Pending
 
 - [x] Task done
